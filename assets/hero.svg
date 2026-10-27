@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm New — n3wbiekkkk</title>
+  <desc id="desc">Building tools for learning and everyday life. A dark banner with mint accents and a terminal illustration.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101b25"/>
+      <stop offset="1" stop-color="#0b1117"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M 36 0 L 0 0 0 36" fill="none" stroke="#22323b" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="20" fill="url(#grid)" opacity="0.3"/>
+  <path d="M 0 315 H 1200" stroke="#283a41"/>
+  <rect x="48" y="49" width="6" height="16" rx="3" fill="#a3e8c3"/>
+  <text x="68" y="62" fill="#a3e8c3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="3">N3WBIEKKKK / GITHUB</text>
+  <text x="48" y="159" fill="#f0f5f3" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="72" font-weight="700" letter-spacing="-3">Hi, I'm New<tspan fill="#a3e8c3">.</tspan></text>
+  <text x="51" y="204" fill="#bac8cd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="21">Building tools for learning &amp; everyday life.</text>
+  <text x="51" y="256" fill="#a3e8c3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">CODE. LEARN. ITERATE.</text>
+  <g transform="translate(738 63)">
+    <rect width="412" height="215" rx="12" fill="#0c141a" stroke="#304349"/>
+    <path d="M 0 38 H 412" stroke="#304349"/>
+    <circle cx="21" cy="19" r="4" fill="#a3e8c3"/>
+    <circle cx="37" cy="19" r="4" fill="#647d7d"/>
+    <circle cx="53" cy="19" r="4" fill="#344b50"/>
+    <text x="390" y="23" text-anchor="end" fill="#9aafb5" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">~/new</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+      <text x="24" y="76" fill="#a3e8c3">$ <tspan fill="#dce6e5">cat interests.txt</tspan></text>
+      <text x="24" y="111" fill="#afc0c4">&gt; programming practice</text>
+      <text x="24" y="138" fill="#afc0c4">&gt; web applications</text>
+      <text x="24" y="165" fill="#afc0c4">&gt; developer experience</text>
+      <text x="24" y="197" fill="#a3e8c3">$</text>
+      <rect x="43" y="183" width="9" height="16" rx="1" fill="#a3e8c3"/>
+    </g>
+  </g>
+  <text x="49" y="342" fill="#8ca4ac" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" letter-spacing="1">SMALL IDEAS. USEFUL SOFTWARE.</text>
+  <text x="1151" y="342" text-anchor="end" fill="#a3e8c3" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">&lt;/&gt;</text>
+</svg>
