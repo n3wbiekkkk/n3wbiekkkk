@@ -32,7 +32,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/snake.svg?color_snake=#c6ff4d&color_dots=#161c13,#344823,#5c7c32,#8fbc3d,#c6ff4d
+            assets/snake.svg?color_snake=#f5f5f5&color_dots=#171717,#3b3b3b,#686868,#aaaaaa,#f5f5f5
         env:
           GITHUB_TOKEN: ${{ github.token }}
       - name: Save updated graphics

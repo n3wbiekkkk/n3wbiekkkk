@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="408" viewBox="0 0 1200 408" role="img" aria-labelledby="title desc">
+<title id="title">New / n3wbiekkkk</title><desc id="desc">An animated black and white banner with a rotating wireframe globe and a typing line: building Newbiegrader.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#191919"/></pattern><clipPath id="typing"><rect x="65" y="264" width="560" height="32"><animate attributeName="width" values="0;0;560;560;0" keyTimes="0;0.08;0.45;0.90;1" dur="9s" repeatCount="indefinite"/></rect></clipPath><clipPath id="frame"><rect width="1200" height="408" rx="16"/></clipPath></defs>
+<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}@media(prefers-reduced-motion:reduce){.orbit{animation:none}}</style>
+<g clip-path="url(#frame)"><rect width="1200" height="408" fill="#0b0b0b"/><rect x="650" width="550" height="408" fill="url(#grid)"/>
+<path d="M1 1H1199V407H1Z" fill="none" stroke="#2a2a2a"/>
+<path d="M0 0H105" stroke="#f5f5f5" stroke-width="6"/>
+<text x="48" y="42" class="mono" font-size="13" fill="#999999" letter-spacing="2">N3WBIEKKKK</text><circle cx="1046" cy="36" r="4" fill="#f5f5f5"><animate attributeName="opacity" values="1;0.25;1" dur="2.5s" repeatCount="indefinite"/></circle><text x="1060" y="41" class="mono" font-size="12" fill="#f5f5f5"></text>
+<text x="38" y="223" font-size="195" font-weight="900" letter-spacing="-13" fill="#f5f5f5">NEW<tspan fill="#f5f5f5">.</tspan></text>
+<path d="M48 246H608" stroke="#303030"/>
+<text x="48" y="287" class="mono" font-size="23" fill="#f5f5f5">&gt;</text><text x="77" y="287" class="mono" font-size="23" fill="#d4d4d4" clip-path="url(#typing)">building Newbiegrader_</text>
+<g stroke="#666666" fill="none" stroke-width=".9" opacity=".75"><ellipse cx="948" cy="204" rx="33" ry="137"/><ellipse cx="948" cy="204" rx="72" ry="137"/><ellipse cx="948" cy="204" rx="109" ry="137"/><ellipse cx="948" cy="204" rx="137" ry="137"/><ellipse cx="948" cy="99" rx="88.00" ry="18"/><ellipse cx="948" cy="139" rx="120.60" ry="18"/><ellipse cx="948" cy="204" rx="137.00" ry="28"/><ellipse cx="948" cy="269" rx="120.60" ry="18"/><ellipse cx="948" cy="309" rx="88.00" ry="18"/><circle cx="948" cy="204" r="137" stroke="#f5f5f5" stroke-width="1.5"/></g>
+<ellipse cx="948" cy="204" rx="199" ry="50" fill="none" stroke="#888888" stroke-width="1" transform="rotate(-29 948 204)"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0 948 204" to="360 948 204" dur="20s" repeatCount="indefinite"/><circle cx="948" cy="204" r="156" fill="none" stroke="#f5f5f5" stroke-width="3" stroke-dasharray="70 910"/><circle cx="1104" cy="204" r="5" fill="#f5f5f5"/></g>
+<rect x="888" y="175" width="120" height="59" rx="8" fill="#0b0b0b" stroke="#3a3a3a"/><text x="948" y="216" text-anchor="middle" class="mono" font-size="35" fill="#f5f5f5">&lt;/&gt;</text>
+<path d="M48 351H1152" stroke="#2a2a2a"/><text x="48" y="383" class="mono" font-size="13" fill="#aaaaaa" letter-spacing="1">N3WBIEKKKK / NEWBIEGRADER</text><text x="1152" y="383" text-anchor="end" class="mono" font-size="12" fill="#f5f5f5"></text></g></svg>
