@@ -4,7 +4,7 @@ I'm **New**. Currently working on **[Newbiegrader](https://github.com/n3wbiekkkk
 
 ### Newbiegrader
 
-<a href="https://newbiegrader.pages.dev"><img src="./assets/newbiegrader.svg?v=mono" alt="Newbiegrader: Thai programming problems, automatic judging and contests. Supports Python, C and C++." width="100%"></a>
+<a href="https://newbiegrader.pages.dev"><img src="./assets/judge.svg" alt="Newbiegrader: Thai programming problems, automatic judging and contests. Supports Python, C and C++." width="100%"></a>
 
 <p align="center">
   <a href="https://newbiegrader.pages.dev">Try it ↗</a> &nbsp; / &nbsp;
@@ -14,12 +14,10 @@ I'm **New**. Currently working on **[Newbiegrader](https://github.com/n3wbiekkkk
 
 ### Activity
 
-<a href="https://github.com/n3wbiekkkk?tab=overview"><img src="./assets/activity.svg?v=mono" alt="GitHub contributions, 30-day activity and current streak; updated daily." width="100%"></a>
+<a href="https://github.com/n3wbiekkkk?tab=overview"><img src="./assets/activity-mono.svg" alt="GitHub contributions, 30-day activity and current streak; updated daily." width="100%"></a>
 
 ### Contributions
 
 <p align="center">
-  <img src="./assets/snake.svg?v=mono" alt="An animated snake eating my GitHub contribution graph" width="100%">
+  <img src="./assets/contributions.svg" alt="An animated snake eating my GitHub contribution graph" width="100%">
 </p>
-
-

@@ -47,5 +47,5 @@ if __name__ == '__main__':
     raw = Path(sys.argv[1]).read_text() if len(sys.argv) > 1 else subprocess.check_output(['gh', 'api', 'graphql', '-f', f'query={QUERY}'], text=True)
     response = json.loads(raw)
     calendar = response['data']['user']['contributionsCollection']['contributionCalendar']
-    (ROOT / 'assets/activity.svg').write_text(render(calendar))
-    print('Updated assets/activity.svg')
+    (ROOT / 'assets/activity-mono.svg').write_text(render(calendar))
+    print('Updated assets/activity-mono.svg')
