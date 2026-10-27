@@ -1,51 +1,30 @@
-<p align="center">
-  <img src="./assets/hero.svg" alt="Hi, I'm New. Building tools for learning and everyday life." width="100%">
-</p>
+<a href="https://github.com/n3wbiekkkk"><img src="./assets/hero.svg" alt="New / n3wbiekkkk — building Newbiegrader" width="100%"></a>
 
 <p align="center">
-  <a href="#about">About</a> &nbsp; / &nbsp;
-  <a href="#featured-project">Featured project</a> &nbsp; / &nbsp;
-  <a href="#toolbox">Toolbox</a> &nbsp; / &nbsp;
-  <a href="https://newbiegrader.pages.dev">Try Newbiegrader ↗</a>
+  <a href="https://newbiegrader.pages.dev"><img src="https://img.shields.io/badge/NEWBIEGRADER-OPEN_APP-c6ff4d?style=for-the-badge&amp;labelColor=151a10&amp;color=c6ff4d" alt="Open Newbiegrader"></a>
+  <a href="https://github.com/n3wbiekkkk/Newbiegrader"><img src="https://img.shields.io/badge/SOURCE-GITHUB-f1f3e9?style=for-the-badge&amp;logo=github&amp;logoColor=f1f3e9&amp;labelColor=151a10&amp;color=303a26" alt="Newbiegrader source code"></a>
 </p>
 
-## About
+I'm **New**. Currently working on **[Newbiegrader](https://github.com/n3wbiekkkk/Newbiegrader)**, a programming judge in Thai.
 
-Hey, I'm **New** — also known as **n3wbiekkkk**. สวัสดีครับ 👋
+### `01` &nbsp; PROJECT
 
-I build tools that make learning to code a little easier, with a focus on Thai-language programming practice. I enjoy connecting the pieces — from the interface and API to the engine that runs the code.
-
-Currently building **[Newbiegrader](https://github.com/n3wbiekkkk/Newbiegrader)**, a place to practice, experiment and learn from each submission.
-
-## Featured project
-
-### [Newbiegrader ↗](https://github.com/n3wbiekkkk/Newbiegrader)
-
-**Read a problem in Thai. Write a solution. Learn from the result.**
-
-An online judge for learning and practicing competitive programming in Thai, bringing a problem catalog, code editor, automatic judging and timed contests into one web app.
-
-| Practice | Get feedback | Keep learning |
-| :--- | :--- | :--- |
-| Solve problems in Python, C or C++. | Review verdicts, execution time and memory usage. | Explore solutions and join timed contests. |
-
-`Python` `FastAPI` `HTML` `CSS` `JavaScript` `Cloudflare Pages`
-
-[**Start practicing →**](https://newbiegrader.pages.dev) &nbsp; · &nbsp; [Source code](https://github.com/n3wbiekkkk/Newbiegrader) &nbsp; · &nbsp; [Documentation](https://github.com/n3wbiekkkk/Newbiegrader/tree/main/docs) &nbsp; · &nbsp; [Report a bug](https://github.com/n3wbiekkkk/Newbiegrader/issues)
-
-## Toolbox
-
-Tools behind the project:
-
-| Area | Tools |
-| :--- | :--- |
-| Backend | Python · FastAPI |
-| Frontend | HTML · CSS · JavaScript |
-| Delivery | Cloudflare Pages · GitHub Actions |
-| Development | Git · Node.js |
-
----
+<a href="https://newbiegrader.pages.dev"><img src="./assets/newbiegrader.svg" alt="Newbiegrader: Thai programming problems, automatic judging and contests. Supports Python, C and C++." width="100%"></a>
 
 <p align="center">
-  <sub>Small ideas. Useful software. Always something to learn.</sub>
+  <a href="https://newbiegrader.pages.dev">Try it ↗</a> &nbsp; / &nbsp;
+  <a href="https://github.com/n3wbiekkkk/Newbiegrader">Repository</a> &nbsp; / &nbsp;
+  <a href="https://github.com/n3wbiekkkk/Newbiegrader/tree/main/docs">Docs</a>
 </p>
+
+### `02` &nbsp; ACTIVITY
+
+<a href="https://github.com/n3wbiekkkk?tab=overview"><img src="./assets/activity.svg" alt="GitHub contributions, 30-day activity and current streak; updated daily." width="100%"></a>
+
+### `03` &nbsp; SNAKE
+
+<p align="center">
+  <img src="./assets/snake.svg" alt="An animated snake eating my GitHub contribution graph" width="100%">
+</p>
+
+<p align="right"><sub>n3wbiekkkk &nbsp; / &nbsp; EOF</sub></p>
