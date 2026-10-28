@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="760" viewBox="0 0 660 760" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">Newbiegrader — programming practice, in Thai</title>
+<desc id="desc">Current project: Thai programming problems, automatic solution judging, and automated solution evaluation. Supports Python, C, and C++. The example submission is an illustration.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#151517}.mono{font-family:'Courier New',monospace;font-size:18px;letter-spacing:1px}.muted{fill:#68686e}.light{fill:#f4f3ef}.gray{fill:#99999d}.code{font-family:'Courier New',monospace;font-size:16px}</style>
+<path fill="#f4f3ef" d="M0 0H660V760H0z"/>
+<path stroke="#d0cfcb" d="M.5.5H659.5V759.5H.5z"/>
+<text x="32" y="46" class="mono">01 / CURRENT PROJECT</text>
+<path d="M32 68H628" stroke="#c9c8c4"/>
+<text x="27" y="146" font-size="75" font-weight="800" letter-spacing="-4.5">Newbiegrader<tspan fill="#85858b">.</tspan></text>
+<text x="32" y="195" font-size="30" font-weight="600" letter-spacing="-.8">Programming practice in Thai.</text>
+<text x="32" y="237" font-size="23" class="muted">Thai-language programming problems</text>
+<text x="32" y="267" font-size="23" class="muted">and automated solution evaluation.</text>
+  <g transform="translate(32 290) scale(1.31858)">
+    <path d="M0 0H452V252H0z" fill="#101012"/>
+    <path d="M0 41H452" stroke="#38383d"/>
+    <path d="M20 17H27V24H20z" fill="#f4f3ef"/>
+    <text x="39" y="25" class="mono light" style="font-size:12px">SOLUTION.PY</text>
+    <text x="432" y="25" text-anchor="end" class="mono gray" style="font-size:11px">ILLUSTRATION</text>
+    <text x="20" y="82" class="code gray">01</text>
+    <text x="59" y="82" class="code light">a, b = map(int, input().split())</text>
+    <text x="20" y="112" class="code gray">02</text>
+    <text x="59" y="112" class="code light">print(a + b)</text>
+    <path d="M20 140H432" stroke="#38383d"/>
+    <text x="20" y="170" class="mono gray" style="font-size:12px">JUDGE RESULT</text>
+    <path d="M23 196L30 203L43 188" stroke="#f4f3ef" stroke-width="2"/>
+    <text x="57" y="208" class="light" font-size="32" font-weight="700" letter-spacing="-1">Accepted</text>
+    <text x="432" y="208" text-anchor="end" class="mono gray">AC</text>
+    <path d="M0 245V252H7M445 252H452V245" stroke="#99999d"/>
+  </g>
+<path d="M0 654H660V760H0z" fill="#e9e8e4"/>
+<path d="M0 654H660M410 678V734" stroke="#c9c8c4"/>
+<text x="32" y="690" class="mono muted">LANGUAGES</text>
+<text x="32" y="730" font-size="29" font-weight="700">Python · C · C++</text>
+<text x="443" y="690" class="mono muted">PROBLEMS</text>
+<text x="443" y="730" font-size="29" font-weight="700">Thai</text>
+</svg>

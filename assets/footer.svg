@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="164" viewBox="0 0 1200 164" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Newbiegrader — feedback and suggestions</title>
+  <desc id="desc">Submit bug reports and feature suggestions through the Newbiegrader repository.</desc>
+  <style>text{font-family:Arial,Helvetica,sans-serif;fill:#f4f3ef}.mono{font-family:'Courier New',monospace;font-size:13px;letter-spacing:1px;fill:#99999d}</style>
+  <path fill="#0a0a0b" d="M0 0H1200V164H0z"/>
+  <path stroke="#323236" d="M.5.5H1199.5V163.5H.5z"/>
+  <text x="48" y="43" class="mono">03 / PROJECT FEEDBACK</text>
+  <text x="46" y="104" font-size="39" font-weight="700" letter-spacing="-1.4">Feedback and suggestions.</text>
+  <text x="48" y="137" class="mono">NEWBIEGRADER / REPORTS &amp; SUGGESTIONS</text>
+  <path d="M1060 55H1112V107M1112 55L1059 108" stroke="#f4f3ef" stroke-width="3"/>
+</svg>

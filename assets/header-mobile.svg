@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="660" height="520" viewBox="0 0 660 520" fill="none" role="img" aria-labelledby="title desc">
+<title id="title">New — a student who enjoys coding</title>
+<desc id="desc">New / n3wbiekkkk. A student who enjoys coding. Currently working on Newbiegrader.</desc>
+<style>text{font-family:Arial,Helvetica,sans-serif;fill:#f4f3ef}.mono{font-family:'Courier New',monospace;font-size:18px;letter-spacing:1px}.muted{fill:#99999d}</style>
+<path fill="#0a0a0b" d="M0 0H660V520H0z"/>
+<path stroke="#323236" d="M.5.5H659.5V519.5H.5zM32 78H628M32 420H628"/>
+<path d="M32 37H40V45H32zM44 37H52V45H44zM32 49H40V57H32zM44 49H52V57H44z" fill="#f4f3ef"/>
+<text x="70" y="54" class="mono">N3WBIEKKKK</text>
+<text x="628" y="54" text-anchor="end" class="mono muted">STUDENT</text>
+<text x="19" y="292" font-size="246" font-weight="900" letter-spacing="-17">NEW<tspan fill="#85858b">.</tspan></text>
+<text x="32" y="350" font-size="41" font-weight="700" letter-spacing="-1.5">A student who enjoys coding.</text>
+<text x="32" y="387" font-size="23" class="muted">Currently working on Newbiegrader.</text>
+<text x="32" y="457" class="mono muted">CURRENT PROJECT</text>
+<text x="32" y="491" class="mono">NEWBIEGRADER ↗</text>
+<path d="M578 460H611V493M611 460L578 493" stroke="#f4f3ef" stroke-width="2"/>
+</svg>

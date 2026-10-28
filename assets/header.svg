@@ -1,16 +1,55 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="408" viewBox="0 0 1200 408" role="img" aria-labelledby="title desc">
-<title id="title">New / n3wbiekkkk</title><desc id="desc">An animated black and white banner with a rotating wireframe globe and a typing line: building Newbiegrader.</desc>
-<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#191919"/></pattern><clipPath id="typing"><rect x="65" y="264" width="560" height="32"><animate attributeName="width" values="0;0;560;560;0" keyTimes="0;0.08;0.45;0.90;1" dur="9s" repeatCount="indefinite"/></rect></clipPath><clipPath id="frame"><rect width="1200" height="408" rx="16"/></clipPath></defs>
-<style>text{font-family:Arial,Helvetica,sans-serif}.mono{font-family:'Courier New',monospace}@media(prefers-reduced-motion:reduce){.orbit{animation:none}}</style>
-<g clip-path="url(#frame)"><rect width="1200" height="408" fill="#0b0b0b"/><rect x="650" width="550" height="408" fill="url(#grid)"/>
-<path d="M1 1H1199V407H1Z" fill="none" stroke="#2a2a2a"/>
-<path d="M0 0H105" stroke="#f5f5f5" stroke-width="6"/>
-<text x="48" y="42" class="mono" font-size="13" fill="#999999" letter-spacing="2">N3WBIEKKKK</text><circle cx="1046" cy="36" r="4" fill="#f5f5f5"><animate attributeName="opacity" values="1;0.25;1" dur="2.5s" repeatCount="indefinite"/></circle><text x="1060" y="41" class="mono" font-size="12" fill="#f5f5f5"></text>
-<text x="38" y="223" font-size="195" font-weight="900" letter-spacing="-13" fill="#f5f5f5">NEW<tspan fill="#f5f5f5">.</tspan></text>
-<path d="M48 246H608" stroke="#303030"/>
-<text x="48" y="287" class="mono" font-size="23" fill="#f5f5f5">&gt;</text><text x="77" y="287" class="mono" font-size="23" fill="#d4d4d4" clip-path="url(#typing)">building Newbiegrader_</text>
-<g stroke="#666666" fill="none" stroke-width=".9" opacity=".75"><ellipse cx="948" cy="204" rx="33" ry="137"/><ellipse cx="948" cy="204" rx="72" ry="137"/><ellipse cx="948" cy="204" rx="109" ry="137"/><ellipse cx="948" cy="204" rx="137" ry="137"/><ellipse cx="948" cy="99" rx="88.00" ry="18"/><ellipse cx="948" cy="139" rx="120.60" ry="18"/><ellipse cx="948" cy="204" rx="137.00" ry="28"/><ellipse cx="948" cy="269" rx="120.60" ry="18"/><ellipse cx="948" cy="309" rx="88.00" ry="18"/><circle cx="948" cy="204" r="137" stroke="#f5f5f5" stroke-width="1.5"/></g>
-<ellipse cx="948" cy="204" rx="199" ry="50" fill="none" stroke="#888888" stroke-width="1" transform="rotate(-29 948 204)"/>
-<g><animateTransform attributeName="transform" type="rotate" from="0 948 204" to="360 948 204" dur="20s" repeatCount="indefinite"/><circle cx="948" cy="204" r="156" fill="none" stroke="#f5f5f5" stroke-width="3" stroke-dasharray="70 910"/><circle cx="1104" cy="204" r="5" fill="#f5f5f5"/></g>
-<rect x="888" y="175" width="120" height="59" rx="8" fill="#0b0b0b" stroke="#3a3a3a"/><text x="948" y="216" text-anchor="middle" class="mono" font-size="35" fill="#f5f5f5">&lt;/&gt;</text>
-<path d="M48 351H1152" stroke="#2a2a2a"/><text x="48" y="383" class="mono" font-size="13" fill="#aaaaaa" letter-spacing="1">N3WBIEKKKK / NEWBIEGRADER</text><text x="1152" y="383" text-anchor="end" class="mono" font-size="12" fill="#f5f5f5"></text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">New — n3wbiekkkk</title>
+  <desc id="desc">A student who enjoys coding. Currently working on Newbiegrader, a Thai programming judge. An architectural wireframe accompanies the profile.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#1b1b1e" stroke-width="0.6"/>
+    </pattern>
+    <linearGradient id="fade" x1="728" y1="120" x2="1130" y2="395" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f4f3ef" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#f4f3ef" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="750" y1="130" x2="1120" y2="390" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f4f3ef"/>
+      <stop offset="1" stop-color="#68686e"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text{font-family:Arial,Helvetica,sans-serif;fill:#f4f3ef}
+    .mono{font-family:'Courier New',monospace;font-size:14px;letter-spacing:1.2px}
+    .muted{fill:#99999d}
+    .signal{animation:signal 5s ease-in-out infinite}
+    @keyframes signal{0%,100%{opacity:.35}50%{opacity:1}}
+    @media(prefers-reduced-motion:reduce){.signal{animation:none}}
+  </style>
+  <path fill="#0a0a0b" d="M0 0H1200V520H0z"/>
+  <path stroke="#323236" d="M.5.5H1199.5V519.5H.5z"/>
+  <path fill="url(#grid)" d="M704 72H1152V432H704z"/>
+  <path d="M48 37H56V45H48zM60 37H68V45H60zM48 49H56V57H48zM60 49H68V57H60z" fill="#f4f3ef"/>
+  <text x="84" y="53" class="mono">N3WBIEKKKK</text>
+  <text x="1152" y="53" text-anchor="end" class="mono muted">STUDENT / PROGRAMMING</text>
+  <path d="M48 78H1152" stroke="#323236"/>
+  <text x="35" y="292" font-size="246" font-weight="900" letter-spacing="-17">NEW<tspan fill="#85858b">.</tspan></text>
+  <text x="49" y="350" font-size="36" font-weight="700" letter-spacing="-1.2">A student who enjoys coding.</text>
+  <text x="50" y="385" font-size="18" class="muted">Currently working on Newbiegrader.</text>
+  <g stroke="url(#edge)" stroke-width="1.25" stroke-linejoin="round">
+    <path d="M758 322L930 228L1102 322L930 416Z" fill="#111113"/>
+    <path d="M758 322V336L930 430L1102 336V322M930 416V430"/>
+    <path d="M782 275L930 194L1078 275L930 356Z" fill="#111113"/>
+    <path d="M782 275V292L930 373L1078 292V275M930 356V373"/>
+    <path d="M806 226L930 158L1054 226L930 294Z" fill="#141416"/>
+    <path d="M806 226V244L930 312L1054 244V226M930 294V312"/>
+    <path d="M830 176L930 121L1030 176L930 231Z" fill="url(#fade)"/>
+    <path d="M830 176V195L930 250L1030 195V176M930 231V250"/>
+    <path d="M930 121V158M830 176L806 226M1030 176L1054 226" stroke-dasharray="3 6" opacity=".5"/>
+    <path d="M862 176L930 139L998 176L930 213Z" stroke="#f4f3ef" stroke-opacity=".35"/>
+    <path d="M881 176L930 149L979 176L930 203Z" stroke="#f4f3ef" stroke-opacity=".2"/>
+  </g>
+  <path d="M930 97V110M930 439V451M721 275H740M1120 275H1139" stroke="#77777d"/>
+  <circle class="signal" cx="930" cy="176" r="5" fill="#f4f3ef"/>
+  <path class="signal" d="M930 176V213" stroke="#f4f3ef"/>
+  <path d="M48 454H1152" stroke="#323236"/>
+  <text x="48" y="489" class="mono muted">CURRENT PROJECT</text>
+  <text x="256" y="489" class="mono">NEWBIEGRADER</text>
+  <text x="1152" y="489" text-anchor="end" class="mono muted">THAI PROGRAMMING JUDGE ↗</text>
+</svg>
